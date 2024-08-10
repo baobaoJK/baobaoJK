@@ -4,6 +4,9 @@
 # 关于我 | About Me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baobaoJK&bg_color=#5BD4CE,#FF80AB&theme=radical)
 
+# 博客 | Blog
+[![Hexo](https://img.shields.io/badge/Hexo-171F26?style=for-the-badge&logo=Hexo&logoColor=#0E83CD)](https://ksamar.top)
+
 # 最爱 | Favorites
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
@@ -12,9 +15,6 @@
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-# 博客 | Blog
-[![Hexo](https://img.shields.io/badge/Hexo-171F26?style=for-the-badge&logo=Hexo&logoColor=#0E83CD)](https://ksamar.top)
 
 # 目前正在学习 | Learning
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
