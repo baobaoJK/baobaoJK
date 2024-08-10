@@ -28,3 +28,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+# 联系我 | Contact Me
+[![Bilibili](https://img.shields.io/badge/Bilibili_KSaMar-00AFF0?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/51110915)
+[![Blog](https://img.shields.io/badge/筱原空的世界-171F26?style=for-the-badge&logo=Hexo&logoColor=#0E83CD)](https://blog.ksamar.top/)
